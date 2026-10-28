@@ -136,3 +136,5 @@ Required before declaring done:
 - [ ] All `[DEBUG-...]` instrumentation removed (`grep` the prefix)
 - [ ] Throwaway prototypes deleted (or moved to a clearly-marked debug location)
 - [ ] The hypothesis that turned out correct is stated in the commit / PR message, so the next debugger learns
+
+<!-- Based on mattpocock/skills@1.3.1, Copyright (c) 2026 Matt Pocock, MIT License. See THIRD_PARTY_LICENSES.md. -->

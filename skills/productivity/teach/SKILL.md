@@ -138,3 +138,5 @@ Glossaries, in particular, are an essential reference. Once one is created, it s
 ## `NOTES.md`
 
 The user will sometimes express preferences of how they want to be taught, or things you should keep in mind. This is the place to record those preferences, so you can refer back to them when designing lessons or working with the user.
+
+<!-- Based on mattpocock/skills@1.3.1, Copyright (c) 2026 Matt Pocock, MIT License. See THIRD_PARTY_LICENSES.md. -->

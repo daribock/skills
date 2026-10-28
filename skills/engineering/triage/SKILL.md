@@ -110,3 +110,5 @@ Capture everything resolved during grilling under "established so far" so the wo
 ## Resuming a previous session
 
 If prior triage notes exist on the issue or PR, read them, check whether the reporter has answered any outstanding questions, and present an updated picture before continuing. Don't re-ask resolved questions.
+
+<!-- Based on mattpocock/skills@1.3.1, Copyright (c) 2026 Matt Pocock, MIT License. See THIRD_PARTY_LICENSES.md. -->
