@@ -169,4 +169,4 @@ Describe whether it's a one-way or two-way door. You can walk back through two-w
 
 The blast radius is the potential impact or scope of the changes introduced by this PR. Consider all possibilities. Examples are layout shift, breakages for consumers, mobile responsiveness, etc.
 
-<!-- Based on mattpocock/skills@1.3.1, Copyright (c) 2026 Matt Pocock, MIT License. See THIRD_PARTY_LICENSES.md. -->
+<!-- Based on mattpocock/skills@1.3.1, Copyright (c) 2026 Matt Pocock, MIT License; Summary visuals from humanlayer/humanlayer show-me, Apache-2.0 (see CREDITS.md). See THIRD_PARTY_LICENSES.md. -->
