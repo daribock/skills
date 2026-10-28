@@ -1,0 +1,41 @@
+{
+  "name": "darikletter",
+  "version": "0.1.0",
+  "description": "Darius Kletter's agent skills: grilling, spec and ticket flows, TDD, code review, domain modelling, triage and more. Based on mattpocock/skills.",
+  "author": {
+    "name": "Darius Kletter",
+    "url": "https://github.com/daribock"
+  },
+  "homepage": "https://github.com/daribock/skills",
+  "repository": "https://github.com/daribock/skills",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "tdd",
+    "code-review",
+    "grilling",
+    "domain-modeling",
+    "productivity"
+  ],
+  "skills": [
+    "./skills/engineering/code-review",
+    "./skills/engineering/codebase-design",
+    "./skills/engineering/diagnosing-bugs",
+    "./skills/engineering/domain-modeling",
+    "./skills/engineering/grill-with-docs",
+    "./skills/engineering/implement",
+    "./skills/engineering/pr",
+    "./skills/engineering/prototype",
+    "./skills/engineering/setup-darikletter-skills",
+    "./skills/engineering/tdd",
+    "./skills/engineering/to-spec",
+    "./skills/engineering/to-tickets",
+    "./skills/engineering/triage",
+    "./skills/productivity/grill-me",
+    "./skills/productivity/grilling",
+    "./skills/productivity/handoff",
+    "./skills/productivity/teach",
+    "./skills/productivity/writing-for-agents"
+  ]
+}

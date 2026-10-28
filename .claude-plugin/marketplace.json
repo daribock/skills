@@ -1,0 +1,23 @@
+{
+  "name": "daribock",
+  "owner": {
+    "name": "Darius Kletter",
+    "url": "https://github.com/daribock"
+  },
+  "description": "Darius Kletter's agent skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "darikletter",
+      "source": "./",
+      "description": "Darius Kletter's agent skills: grilling, spec and ticket flows, TDD, code review, domain modelling, triage and more. Based on mattpocock/skills.",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "tdd",
+        "code-review",
+        "grilling"
+      ]
+    }
+  ]
+}
